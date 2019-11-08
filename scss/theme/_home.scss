@@ -94,6 +94,9 @@
 //--------- Start Banner Area -------------//
 
 .banner-area {
+    background-image: url('../img/peru.jpg');
+    background-size: 100% 140%;
+
 	.fullscreen {
 		@include media-breakpoint-down (lg) {
 			height: 800px !important;
