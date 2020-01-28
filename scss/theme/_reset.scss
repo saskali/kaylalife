@@ -1,5 +1,5 @@
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 
 ::-moz-selection { /* Code for Firefox */
@@ -35,7 +35,7 @@
 body {
     color: $text-color;
     font-family: $primary-font;
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 300;
     line-height: 1.625em;
     position: relative;
@@ -62,10 +62,18 @@ iframe {
     border: 0;
 }
 
-a, a:focus, a:hover {
+a {
     text-decoration: none;
     outline: 0;
+    color: white;
 }
+
+a:focus, a:hover {
+  text-decoration: none;
+  outline: 0;
+  color: #FFE09C;
+}
+
 .btn.active.focus,
 .btn.active:focus,
 .btn.focus,
@@ -112,7 +120,7 @@ h4, h5, h6 {
 }
 
 h1, .h1 { font-size: 36px;}
-h2, .h2 { font-size: 30px;}
+h2, .h2 { font-size: 34px;}
 h3, .h3 { font-size: 24px;}
 h4, .h4 { font-size: 18px;}
 h5, .h5 { font-size: 16px;}

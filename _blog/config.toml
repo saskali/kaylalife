@@ -1,0 +1,7 @@
+baseURL = "https://kayla.life/blog/"
+relativeurls = true
+sourceRelativeLinksEval = true
+languageCode = "en-us"
+title = "Kaylalife"
+theme = "cactus-plus"
+publishDir = "../blog"

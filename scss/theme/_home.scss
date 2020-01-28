@@ -1,6 +1,6 @@
 
 .section-gap {
-	padding: 120px 0;
+	padding: 200px 0;
 }
 .section-title {
 	padding-bottom: 30px;
@@ -255,13 +255,13 @@
 //--------- Start fact Area -------------//
 
 .fact-area{
-	background:url(../img/fact-bg.jpg) center;
+	background:url(../img/fact-bg.jpg) top;
 	background-size: cover;
 	h1,p{
 		color:$white;
 	}
 	.overlay-bg{
-		background:rgba(#000,.65);
+		background:rgba(#000,.25);
 	}
 }
 
@@ -300,17 +300,17 @@
 //--------- end  counter  Area -------------//
 
 
-//--------- start price Area -------------//
+//--------- start links Area -------------//
 
-.single-price{
+.single-links {
 	text-align:center;
 	border:1px solid rgb(238, 238, 238);
-	.price-top{
-		background-color:#fbfcff;
+	.links-top{
+		background-color:rgba(35, 157, 72, .7);
 		border-bottom: 1px solid rgb(238, 238, 238);
 		padding: 30px 0px; 		
 	}
-	.price-bottom{
+	.links-bottom{
 		background-color:$offwhite;
 		margin: 0 45px 45px 45px;
 		padding: 35px;
@@ -350,7 +350,7 @@
 	}
 	&:hover{
 		cursor:pointer;
-		.price-bottom{
+		.links-bottom{
 			@extend .p1-gradient-bg;
 			h1{
 				color:$white;
@@ -367,7 +367,7 @@
 
 
 
-//--------- end price Area -------------//
+//--------- end links Area -------------//
 
 
 //--------- start course Area -------------//
@@ -413,7 +413,7 @@
 		margin-top:-80px;
 		margin-left:30px;	
 	}
-	.price{
+	.links {
 		color:$primary-color;
 	}
 	.details{
