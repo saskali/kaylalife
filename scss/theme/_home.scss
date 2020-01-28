@@ -105,6 +105,7 @@
 }
 .banner-content {
 	text-align:center;
+	backdrop-filter: blur(4px);
 	h1{
 		color:$white;
 		font-size: 72px;

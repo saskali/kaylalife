@@ -45,7 +45,7 @@
 body {
   color: #777777;
   font-family: "Poiret One", sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 300;
   line-height: 1.625em;
   position: relative; }
@@ -447,6 +447,10 @@ td, th {
 .text-black {
   color: #000; }
 
+.text-dark-magenta {
+  color: #99326C;
+  text-shadow: none; }
+
 .transition {
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -625,7 +629,7 @@ h1 {
   font-size: 36px; }
 
 h2 {
-  font-size: 30px; }
+  font-size: 34px; }
 
 h3 {
   font-size: 24px; }
@@ -1538,13 +1542,13 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  font-weight: 600;
-  font-size: 22px;
+  font-weight: 800;
+  font-size: 30px;
   text-transform: uppercase;
   outline: none; }
 
 .nav-menu > li {
-  margin-left: 10px; }
+  margin-left: 20px; }
 
 .nav-menu ul {
   margin: 16px 0 0 0;
@@ -1671,7 +1675,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff; }
 
 .section-gap {
-  padding: 120px 0; }
+  padding: 200px 0; }
 
 .section-title {
   padding-bottom: 30px; }
@@ -1684,7 +1688,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       .section-title p br {
         display: none; } }
 
-.p1-gradient-bg, .primary-btn, .single-price:hover .price-bottom, .call-to-action-area, .single-footer-widget .click-btn, .generic-banner {
+.p1-gradient-bg, .primary-btn, .single-links:hover .links-bottom, .call-to-action-area, .single-footer-widget .click-btn, .generic-banner {
   background-image: -moz-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
   background-image: -webkit-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
   background-image: -ms-linear-gradient(90deg, #f45622 0%, #f53e54 100%); }
@@ -1756,7 +1760,8 @@ body.mobile-nav-active #mobile-nav-toggle {
       height: 800px !important; } }
 
 .banner-content {
-  text-align: center; }
+  text-align: center;
+  backdrop-filter: blur(4px); }
   .banner-content h1 {
     color: #fff;
     font-size: 72px;
@@ -1861,12 +1866,12 @@ body.mobile-nav-active #mobile-nav-toggle {
       margin-bottom: 40px; } }
 
 .fact-area {
-  background: url(../img/fact-bg.jpg) center;
+  background: url(../img/fact-bg.jpg) top;
   background-size: cover; }
   .fact-area h1, .fact-area p {
     color: #fff; }
   .fact-area .overlay-bg {
-    background: rgba(0, 0, 0, 0.65); }
+    background: rgba(0, 0, 0, 0.25); }
 
 .counter-area {
   margin-top: -100px; }
@@ -1876,25 +1881,25 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 10px;
   background-color: white;
   padding: 40px 0;
-  box-shadow: 0px 10px 50px 0px rgba(245, 63, 81, 0.3); }
+  box-shadow: 0px 10px 50px 0px rgba(212, 88, 0, 0.3); }
   .single-counter h1 {
     font-size: 60px;
     font-weight: 400;
-    color: #f53f51; }
+    color: #D45800; }
   .single-counter p {
     color: #222; }
   @media (max-width: 800px) {
     .single-counter {
       margin-bottom: 30px; } }
 
-.single-price {
+.single-links {
   text-align: center;
   border: 1px solid #eeeeee; }
-  .single-price .price-top {
-    background-color: #fbfcff;
+  .single-links .links-top {
+    background-color: rgba(35, 157, 72, .7);
     border-bottom: 1px solid #eeeeee;
     padding: 30px 0px; }
-  .single-price .price-bottom {
+  .single-links .links-bottom {
     background-color: #f9f9ff;
     margin: 0 45px 45px 45px;
     padding: 35px;
@@ -1902,15 +1907,15 @@ body.mobile-nav-active #mobile-nav-toggle {
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s; }
-    .single-price .price-bottom h1 {
+    .single-links .links-bottom h1 {
       font-size: 60px;
       font-weight: 300; }
-      .single-price .price-bottom h1 span {
+      .single-links .links-bottom h1 span {
         font-size: 25px;
         margin-top: -14px;
         position: absolute;
         margin-left: -20px; }
-    .single-price .price-bottom .primary-btn {
+    .single-links .links-bottom .primary-btn {
       margin-top: 20px;
       background: #222;
       color: #fff;
@@ -1919,25 +1924,25 @@ body.mobile-nav-active #mobile-nav-toggle {
       -moz-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s; }
-      .single-price .price-bottom .primary-btn:hover {
+      .single-links .links-bottom .primary-btn:hover {
         border: 1px solid transparent; }
     @media (max-width: 1280px) {
-      .single-price .price-bottom {
+      .single-links .links-bottom {
         margin: 0; } }
     @media (max-width: 1024px) {
-      .single-price .price-bottom .primary-btn {
+      .single-links .links-bottom .primary-btn {
         padding-left: 22px;
         padding-right: 22px; } }
-  .single-price p {
-    padding: 30px 0px; }
-  .single-price:hover {
+  .single-links p {
+    padding: 30px; }
+  .single-links:hover {
     cursor: pointer; }
-    .single-price:hover .price-bottom h1 {
+    .single-links:hover .links-bottom h1 {
       color: #fff; }
-    .single-price:hover .primary-btn {
+    .single-links:hover .primary-btn {
       background-color: #ca4829; }
   @media (max-width: 800px) {
-    .single-price {
+    .single-links {
       margin-bottom: 50px; } }
 
 .course-area {
@@ -1972,7 +1977,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: absolute;
   margin-top: -80px;
   margin-left: 30px; }
-.single-course .price {
+.single-course .links {
   color: #f53f51; }
 .single-course .details {
   padding: 5px 30px 30px 30px; }
@@ -2065,10 +2070,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 100px;
   background-color: #222222; }
 
-h6 {
+.footer-headers {
   color: #fff;
   margin-bottom: 25px;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600; }
 
 .copy-right-text i, .copy-right-text a {
