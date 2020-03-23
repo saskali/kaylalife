@@ -116,7 +116,7 @@ html, body {
 }
 
 body {
-    font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 18px/1 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -136,7 +136,7 @@ h2 {
 
 .profile #wrapper {
     padding: 60px 40px 0px;
-    max-width: 600px;
+    max-width: 620px;
     margin: 0 auto;
 }
 
@@ -220,13 +220,13 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-    max-width: 600px;
+    max-width: 620px;
     margin: 0 auto;
     padding: 60px 40px 100px 40px;
 }
 
 #wrapper.home {
-    max-width: 600px;
+    max-width: 620px;
     margin: 0 auto;
     padding: 0px 40px 20px 40px;
 }
@@ -331,20 +331,20 @@ em, i {
 
 .post h1 {
     margin-bottom: 20px;
-    color: #FF7F50;
-    font: 300 40px/1.4em "Shadows Into Light", cursive;
+    color: #FFAF24;
+    font: 300 40px/1.4em "Shadows Into Light Two", cursive;
 }
 
 .post h2 {
     margin-bottom: 40px;
-    font: 300 24px/1.5 "Shadows Into Light", cursive;
+    font: 300 24px/1.5 "Shadows Into Light Two", cursive;
     color: #111;
 }
 
 .post h2.headline {
-    font: normal 18px/1.5em "Shadows Into Light", cursive;
+    font: normal 18px/1.5em "Shadows Into Light Two", cursive;
     margin: -5px 0 0 0;
-    color: #b2b9be;
+    color: #9CA2A6;
     font-size: 18px;
     letter-spacing: 1px;
     display: inline-block;
