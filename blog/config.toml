@@ -1,7 +1,7 @@
-baseURL = "https://saskali.github.io/kayla/blog/"
+baseURL = "https://saskali.github.io/kaylalife/blog"
 relativeurls = true
 sourceRelativeLinksEval = true
 languageCode = "en-us"
 title = "Kaylalife"
 theme = "cactus-plus"
-publishDir = "../docs"
+publishDir = "docs/blog"
