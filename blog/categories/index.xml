@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kaylalife</title>
+    <link>https://kayla.life/blog/categories/</link>
+    <description>Recent content in Categories on Kaylalife</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kayla.life/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clojure</title>
+      <link>https://kayla.life/blog/categories/clojure/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/clojure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>https://kayla.life/blog/categories/collaboration/</link>
+      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://kayla.life/blog/categories/community/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://kayla.life/blog/categories/conference/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connection</title>
+      <link>https://kayla.life/blog/categories/connection/</link>
+      <pubDate>Tue, 02 Oct 2018 21:39:05 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/connection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determination</title>
+      <link>https://kayla.life/blog/categories/determination/</link>
+      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev Tools</title>
+      <link>https://kayla.life/blog/categories/dev-tools/</link>
+      <pubDate>Thu, 25 Jan 2018 18:30:51 +0100</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/dev-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>https://kayla.life/blog/categories/flow/</link>
+      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://kayla.life/blog/categories/life/</link>
+      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind</title>
+      <link>https://kayla.life/blog/categories/mind/</link>
+      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>https://kayla.life/blog/categories/movement/</link>
+      <pubDate>Tue, 02 Oct 2018 21:39:05 +0200</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://kayla.life/blog/categories/programming/</link>
+      <pubDate>Thu, 25 Jan 2018 18:30:51 +0100</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shift</title>
+      <link>https://kayla.life/blog/categories/shift/</link>
+      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
+      
+      <guid>https://kayla.life/blog/categories/shift/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
