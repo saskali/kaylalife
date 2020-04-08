@@ -1,4 +1,4 @@
-baseURL = "https://saskali.github.io/kaylalife/blog"
+baseURL = "https://saskali.github.io/kayla/blog"
 relativeurls = true
 sourceRelativeLinksEval = true
 languageCode = "en-us"
