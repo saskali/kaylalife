@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Kaylalife</title>
+    <link>https://saskali.github.io/kayla/blog/categories/community/</link>
+    <description>Recent content in Community on Kaylalife</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2019 00:38:49 +0200</lastBuildDate>
+    
+	<atom:link href="https://saskali.github.io/kayla/blog/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community with lots of heart</title>
+      <link>https://saskali.github.io/kayla/blog/2019-08-16-community-with-heart/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
+      
+      <guid>https://saskali.github.io/kayla/blog/2019-08-16-community-with-heart/</guid>
+      <description>It&amp;rsquo;s been two weeks now since Heart of Clojure. Time for reflections. 🌟
+I feel much movement within, a sense of wonder, a pinch of surprise and a big portion of gratitude. It was a special conference for me.
+The Background Story A while ago, I made a promise to myself. I decided to accept every possibility to speak in front of people. In the past, having all attention on me was one of the most frightening moments.</description>
+    </item>
+    
+  </channel>
+</rss>
